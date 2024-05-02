@@ -1,0 +1,25 @@
+
+thead,
+tfoot {
+  background-color: rgb(20, 178, 246);
+}
+
+
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody > tr:nth-of-type(even) {
+  background-color: rgb(217, 244, 173);
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot td {
+  font-weight: bold;
+}
+
+
